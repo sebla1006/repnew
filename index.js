@@ -3,7 +3,7 @@ const  { MessageEmbed, MessageAttachment } = require('discord.js')
 const client = new Discord.Client()
 const fs = require('fs')
 const bdd = require("./fichier.json")
-client.login('ODMxMTcyMTM3MjYzNTYyODQx.YHRXXw.UtJvu8_X-WL4BQygsVtjlsJPyHE')
+client.login('ODMxMTcyMTM3MjYzNTYyODQx.YHRXXw.Tq2wdAOXRKld8iU8VUlzjtMfoCU')
 
 client.on('ready', () => {
     console.log('Je suis prêt !')
